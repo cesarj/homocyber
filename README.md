@@ -1,4 +1,4 @@
-homocyber
+HomoCyber - digital creature(s)
 =========
 
-Poesia, ficção, etc...
+Experimental scripts, poetry... fiction.
